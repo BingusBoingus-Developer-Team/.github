@@ -3,4 +3,10 @@
 - 🙋‍♀️ We are currently maintaining these repositories as a duo but are looking for more collaborators and contributors to add more fun functionality to the bot.
 - 🌈 New feature ideas, requests and bug reports are always welcome.
 - 👩‍💻 We will try to push out new features and fixes whenever we find the time to do so.
-- 🧙 thanks!
+
+
+## Note
+
+- some deprecated BingusBoingus Images can be found [on the old package registry](https://github.com/users/sanriodev/packages/container/package/bingusboingu) for anyone interested in older versions
+
+##### kind regards, Matteo 🧙

@@ -7,6 +7,6 @@
 
 ## Note
 
-- some deprecated BingusBoingus Images can be found [on the old package registry](https://github.com/users/sanriodev/packages/container/package/bingusboingu) for anyone interested in older versions
+- some deprecated BingusBoingus Images can be found [on the old package registry](https://github.com/users/sanriodev/packages/container/package/bingusboingus) for anyone interested in older versions
 
 ##### kind regards, Matteo 🧙
